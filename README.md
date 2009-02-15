@@ -23,6 +23,7 @@ Opening
 Stages
 ------
 There are 4 stages.
+
 - angel castle
 - bottomless valley
 - devil mountain

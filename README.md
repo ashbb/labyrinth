@@ -31,6 +31,8 @@ There are 4 stages.
 
 Hope you can see like a **castle**, a **valley**, a **skull** and a **dragon**. ;-)
 
+![labyrinth-dragon-cave.png](http://github.com/ashbb/labyrinth/raw/master/imgs/labyrinth-dragon-cave.png)
+
 Change log:
 -----------
 Feb 15th, 2009: First release 0.1.0 

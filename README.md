@@ -14,7 +14,7 @@ Usage
 \*1: The lovely purple creature created by [anteaya](http://anteaya.github.com/).
 
 
-Openning
+Opening
 --------
 ![labyrinth-opening.png](http://github.com/ashbb/labyrinth/raw/master/imgs/labyrinth-opening.png)
 
